@@ -4,3 +4,4 @@
 
 - ["Hello, World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem)
 - [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem)
+- [Sum and Differnece of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem)
