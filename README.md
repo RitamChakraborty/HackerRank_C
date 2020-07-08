@@ -13,3 +13,4 @@
 
 - [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem)
 - [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)
+- [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem)
