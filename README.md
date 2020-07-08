@@ -7,4 +7,9 @@
 - [Sum and Differnece of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem)
 - [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)
 - [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem)
+
+
+## Conditionals and Loops
+
 - [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem)
+- [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)
