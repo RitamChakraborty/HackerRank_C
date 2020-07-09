@@ -23,3 +23,4 @@
  - [Array Reversal](https://www.hackerrank.com/challenges/reverse-array-c/problem)
  - [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/problem)
  - [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem)
+ - [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem)
