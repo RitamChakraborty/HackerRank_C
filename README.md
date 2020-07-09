@@ -16,3 +16,7 @@
 - [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem)
 - [Bitwise Operators](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem)
 - [Printing Pattern using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem)
+
+ ## Arrays and Strings
+
+ - [1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem)
