@@ -20,3 +20,4 @@
  ## Arrays and Strings
 
  - [1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem)
+ - [Array Reversal](https://www.hackerrank.com/challenges/reverse-array-c/problem)
