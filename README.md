@@ -28,3 +28,4 @@
 ## Functions
 
 - [Calcutate the Nth Term](https://www.hackerrank.com/challenges/recursion-in-c/problem)
+- [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem)
