@@ -31,3 +31,4 @@
 - [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem)
 - [Sorting Arrays of String](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem)
 - [Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem)
+- [Variadict functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem)
