@@ -30,3 +30,4 @@
 - [Calcutate the Nth Term](https://www.hackerrank.com/challenges/recursion-in-c/problem)
 - [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum/problem)
 - [Sorting Arrays of String](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem)
+- [Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem)
