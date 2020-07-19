@@ -32,3 +32,4 @@
 - [Sorting Arrays of String](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem)
 - [Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem)
 - [Variadict functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem)
+- [Querying the Document](https://www.hackerrank.com/challenges/querying-the-document/problem)
