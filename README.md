@@ -33,3 +33,7 @@
 - [Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem)
 - [Variadict functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem)
 - [Querying the Document](https://www.hackerrank.com/challenges/querying-the-document/problem)
+
+## Structs and Enums
+
+- [Small Triangles, Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem)
