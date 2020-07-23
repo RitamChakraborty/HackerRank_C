@@ -38,3 +38,4 @@
 
 - [Small Triangles, Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem)
 - [Post Transition](https://www.hackerrank.com/challenges/post-transition/problem)
+- [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document/problem)
