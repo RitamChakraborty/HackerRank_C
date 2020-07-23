@@ -1,4 +1,4 @@
-# [HackerRank C](https://www.hackerrank.com/domains/c) | [Code]() |
+# [HackerRank C](https://www.hackerrank.com/domains/c)
 
 ## Introduction
 
